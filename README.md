@@ -25,6 +25,8 @@ invoice server's, not a second copy of it, so a credit note and the invoice it r
 minor unit.
 
 
+npm publish for `@theluckystrike/mcp-billing-docs` is pending, so `npx -y @theluckystrike/mcp-billing-docs` returns 404 today. Until then, the `.mcpb` one-click bundle or a clone+build is the working path.
+
 ## Install
 
 Claude Desktop (`claude_desktop_config.json`):
