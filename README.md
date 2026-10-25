@@ -6,7 +6,7 @@
 
 Works with Claude Desktop, Claude Code, Cursor and any Model Context Protocol client. Runs on your own machine, or hosted with no install.
 
-Product page: <https://mcp.zovo.one/s/billing-docs> — what it does, the tools it exposes, and a live token endpoint.
+Product page: <https://mcp.zovo.one/s/billing-docs> - what it does, the tools it exposes, and a live token endpoint.
 
 ## Install
 
@@ -159,6 +159,6 @@ Built by [theluckystrike](https://github.com/theluckystrike). Support: support@z
 
 ## Use these docs as an MCP server
 
-Any MCP client (Claude, Cursor, Windsurf, VS Code) can read this repository's documentation directly via GitMCP — no install:
+Any MCP client (Claude, Cursor, Windsurf, VS Code) can read this repository's documentation directly via GitMCP - no install:
 
 - Docs MCP URL: https://gitmcp.io/theluckystrike/mcp-billing-docs
